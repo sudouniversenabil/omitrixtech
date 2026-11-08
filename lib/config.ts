@@ -1,4 +1,4 @@
-export const fiverr_url : string = "https://fiverr.com/omitrix"
+export const fiverr_url : string = "https://fiverr.com/omitrixtech"
 
 export const contact = {
   email: "omitrix@gamil.com",
